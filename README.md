@@ -52,7 +52,7 @@ problem-name/
 ## 📚 참고 자료
 
 - [LeetCode](https://leetcode.com/)
-- [알고리즘 패턴 정리](./templates/)
+- [알고리즘 패턴 정리](./templates/algorithm_patterns.md)
 
 ---
 
