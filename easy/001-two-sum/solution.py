@@ -25,13 +25,13 @@ class Solution:
         Returns:
             두 수의 인덱스를 담은 리스트
         """
-        elements = {}  # {값: 인덱스} 매핑
+        num_to_index = {}  # {값: 인덱스} 매핑
         
         for i, num in enumerate(nums):
             rest_num = target - num
-            if rest_num in elements:
-                return [i, elements[rest_num]]
-            elements[num] = i
+            if rest_num in num_to_index:
+                return [i, num_to_index[rest_num]]
+            num_to_index[num] = i
 
 
 # 테스트 케이스
