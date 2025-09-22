@@ -13,8 +13,8 @@
 - 인덱스 조작, 순회 패턴
 
 **풀 문제들**:
-1. **26. Remove Duplicates from Sorted Array** (Two Pointers 기초)
-2. **27. Remove Element** (배열 조작)
+1. **26. Remove Duplicates from Sorted Array** ✅ (Two Pointers 기초)
+2. **27. Remove Element** (스캐폴드 생성, 풀이 예정)
 3. **88. Merge Sorted Array** (정렬된 배열 합치기)
 4. **121. Best Time to Buy and Sell Stock** (배열 순회 + 최적화)
 
@@ -174,7 +174,7 @@
 
 **풀 문제들**:
 1. **167. Two Sum II** (정렬된 배열)
-2. **283. Move Zeroes** (배열 재배치)
+2. **283. Move Zeroes** (스캐폴드 생성, 풀이 예정)
 3. **643. Maximum Average Subarray I** (슬라이딩 윈도우)
 4. **977. Squares of a Sorted Array** (Two Pointers 변형)
 
